@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple_Blurred_image</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ranklabel">"Rank : "</string>
+    <string name="countrylabel">"Country : "</string>
+    <string name="populationlabel">"Population : "</string>
+</resources>
