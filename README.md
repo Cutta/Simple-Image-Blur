@@ -17,7 +17,7 @@ For imageView
 
 SS
 ====
- <img src = "http://i.imgur.com/iOv7aEo.png"</img>
+ <img src = "http://s1.postimg.org/6iaq5vxbz/Untitled.png"</img>
  
  
 License
