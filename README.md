@@ -17,7 +17,7 @@ For imageView
 
 SS
 ====
- <img src = "http://s1.postimg.org/6iaq5vxbz/Untitled.png"</img>
+ <img src = "http://s1.postimg.org/6iaq5vxbz/Untitled.png"/>
  
 Credits
 ====
